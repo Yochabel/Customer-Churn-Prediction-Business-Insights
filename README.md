@@ -14,4 +14,5 @@ Python, pandas, scikit-learn, matplotlib, seaborn, Power BI
 ## Files
 - `01_customer_churn_prediction_business_insights.ipynb` – Full analysis and modeling
 - `Churn_PowerBI_Dataset.csv` – Final dataset for Power BI
+- `Churn_PowerBI.pbix` - Power BI Dashboard
 
